@@ -12,7 +12,6 @@ public class MyNameAndAge {
 		System.out.print("Enter your age: ");
 		age = Integer.parseInt(br.readLine());
 		
-		
 		System.out.print("Hello, "+name+ " your age is "+age);
 	}
 }
